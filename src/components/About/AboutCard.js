@@ -9,20 +9,20 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hope you are doing well! My name is
-             <span className="purple"> Kumar M </span> 
+             <span className="purple"> Shravan Vaidya </span> 
              and I am from
-             <span className="purple"> Dubai. </span>
-             I am currently a rising sophomore studing 
-             <span className="purple"> Computer science, Statistics & Data science </span>
+             <span className="purple"> Sirsi. </span>
+             I am currently studing 
+             <span className="purple"> Computer science Engineering </span>
              at the 
-             <span className="purple"> University of Massachuessts Amherst. </span>
+             <span className="purple"> Dayananda Sagar University. </span>
              I have a huge passion for programming, especially <span className="purple">
-              Machine Learning, Quantatative finace, Financal enginerring, and Software enginerring.
+              Machine Learning, Networking and Software enginerring.
              </span>
             <br />
             <br />
             This summer I am a <span className="purple">software engineering intern</span> at 
-            <span className="purple"> Putnam Investments</span> where 
+            <span className="purple"> Amazon </span> where 
             I am leveraging <span className="purple">agile methodologies</span> along with <span className="purple">Java, JavaScript, ExtJs, and 
             XML</span> to develop new products for equity analysts while simultaneously pursuing 
             the <span className="purple">AWS cloud practioner certification.</span> 
@@ -43,7 +43,7 @@ function AboutCard() {
               <ImPointRight /> Playing Cricket
             </li>
             <li className="about-activity">
-              <ImPointRight /> Listening to the Weeknd on repeat
+              <ImPointRight /> Listening to the songs
             </li>
             <li className="about-activity">
               <ImPointRight /> cycling

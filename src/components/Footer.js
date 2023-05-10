@@ -17,7 +17,7 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/Rishik-J"
+                href="https://github.com/ShravanVaidya"
                 style={{ color: "white"}}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -27,7 +27,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/rishik-janaswamy-99687a1b3/"
+                href="https://www.linkedin.com/in/shravan-vaidya-ab7110232/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -37,7 +37,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="mailto:rishik.a.janaswamy@gmail.com"
+                href="mailto:shravanvaidya1@gmail.com"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"

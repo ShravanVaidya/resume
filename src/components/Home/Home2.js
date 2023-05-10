@@ -19,7 +19,7 @@ function Home2() {
                ALLOW ME TO<span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              My name is Kumar M
+              My name is Shravan Vaidya
               <br />
               <br />I love programming, sports (especially cricket!), and music
               <br />
@@ -32,10 +32,10 @@ function Home2() {
               <br />
               My fields of Interest's include&nbsp;
               <i>
-                <b className="purple">Quantatative Finance and Machine Learning </b> 
+                <b className="purple">Networking and Machine Learning </b> 
                   in areas related to{" "}
                 <b className="purple">
-                  Deep Learning, Natural Launguage Processing, and Renforcement Learning.
+                  Deep Learning, Natural Language Processing, and Reinforcement Learning.
                 </b>
               </i>
               <br />
@@ -71,7 +71,7 @@ function Home2() {
             <ul className="home-about-social-links">
             <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/rishik-janaswamy-99687a1b3/"
+                  href="https://www.linkedin.com/in/shravan-vaidya-ab7110232/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -81,7 +81,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://github.com/Rishik-J"
+                  href="https://github.com/ShravanVaidya"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -91,7 +91,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="mailto:rishik.a.janaswamy@gmail.com"
+                  href="mailto:shravanvaidya1@gmail.com"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
